@@ -1,9 +1,9 @@
 test = {   'name': 'q1.1',
     'points': 1,
-    'suites': [   {   'cases': [   {   'code': '>>> assert abs(P[0] - 0.00307) < .1*.00307;\n'
-                                               '>>> assert abs(P[1] - .013091) < .1*.013091;\n'
-                                               '>>> assert abs(P[2] - .148133) < .1*.148133;\n'
-                                               '>>> assert abs(P[3] - .5514) < .1*.5514\n',
+    'suites': [   {   'cases': [   {   'code': '>>> assert abs(P[0] - 0.003819) < .1*0.003819;\n'
+                                               '>>> assert abs(P[1] - 0.016803) < .1*0.016803;\n'
+                                               '>>> assert abs(P[2] - 0.180881) < .1*0.180881;\n'
+                                               '>>> assert abs(P[3] - 0.631248) < .1*0.631248\n',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,
